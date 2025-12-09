@@ -39,13 +39,6 @@ Aplikasi ini berfungsi untuk mencatat teks secara offline menggunakan **SQLite**
 
 ---
 
-## 🛠 Instalasi & Menjalankan Project
-
-1️⃣ Clone repository:
-
-```bash
-git remote add origin https://github.com/Mumammadabdulmanan/notes_app.git
-
 ---
 
 ## 📷 Screenshots
@@ -53,3 +46,10 @@ git remote add origin https://github.com/Mumammadabdulmanan/notes_app.git
 | Home | Add Note |
 |------|----------|
 | ![](screenshots/home.png) | ![](screenshots/add_note.png) |
+
+## 🛠 Instalasi & Menjalankan Project
+
+1️⃣ Clone repository:
+
+```bash
+git remote add origin https://github.com/Mumammadabdulmanan/notes_app.git
